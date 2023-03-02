@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Moso%20Hub&fontSize=90)
 
 <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/inusneo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
